@@ -4,168 +4,244 @@
             "id": 100,
             "firstname": "Zill e",
             "lastname": "Islam",
-            "name": "Islam Zill e"
+            "name": "Islam Zill e",
+            "nationality": "Pakistani",
+            "date_of_birth": "1997-08-15"
         },
         {
             "id": 101,
             "firstname": "Orkhan",
             "lastname": "Shahbazov",
-            "name": " Shahbazov Orkhan"
+            "name": " Shahbazov Orkhan",
+            "nationality": "Azerbaijani",
+            "date_of_birth": "1998-03-28"
         },
         {
             "id": 102,
             "firstname": "Mohamed Taha",
             "lastname": "Banaouas",
-            "name": " Banaouas Mohamed Taha"
+            "name": " Banaouas Mohamed Taha",
+            "nationality": "Tunisian",
+            "date_of_birth": "1996-10-07"
         },
         {
             "id": 103,
             "firstname": "Sirin Oglu Hasanli",
             "lastname": "Azad",
-            "name": " Azad Sirin Oglu Hasanli"
+            "name": " Azad Sirin Oglu Hasanli",
+            "nationality": "Azerbaijani",
+            "date_of_birth": "2000-02-19"
         },
         {
             "id": 104,
             "firstname": "Alex",
             "lastname": "Marden",
-            "name": "Alex Marden"
+            "name": "Alex Marden",
+            "nationality": "American",
+            "date_of_birth": "1999-12-30"
         },
         {
             "id": 105,
             "firstname": "Dániel Róbert",
             "lastname": "Biegl",
-            "name": "Biegl Dániel Róbert"
+            "name": "Biegl Dániel Róbert",
+            "nationality": "Hungarian",
+            "date_of_birth": "1996-05-04"
         },
         {
             "id": 106,
             "firstname": "Mehdi",
             "lastname": "Marzougui",
-            "name": "Marzougui Mehdi"
+            "name": "Marzougui Mehdi",
+            "nationality": "Tunisian",
+            "date_of_birth": "1999-06-12"
         },
         {
             "id": 107,
             "firstname": "Mehrab",
             "lastname": "Mahdian",
-            "name": "Mahdian Mehrab"
+            "name": "Mahdian Mehrab",
+            "nationality": "American",
+            "date_of_birth": "1997-05-17"
         },
         {
             "id": 108,
             "firstname": "Florie",
             "lastname": "Merat",
-            "name": "Florie Merat"
+            "name": "Florie Merat",
+            "nationality": "Iranian",
+            "date_of_birth": "1997-02-28"
         },
         {
             "id": 109,
             "firstname": "Antony Tharwat Fekry",
             "lastname": "Megalla",
-            "name": "Megalla Antony Tharwat Fekry"
+            "name": "Megalla Antony Tharwat Fekry",
+            "nationality": "French",
+            "date_of_birth": "1998-03-14"
         },
         {
             "id": 110,
             "firstname": "Mohammad",
             "lastname": "Roshandelpour",
-            "name": "Roshandelpour Mohammad"
+            "name": "Roshandelpour Mohammad",
+            "nationality": "Iranian",
+            "date_of_birth": "1999-10-16"
         },
         {
             "id": 111,
             "firstname": "Laman",
             "lastname": "Suleymanova",
-            "name": "Suleymanova Laman"
+            "name": "Suleymanova Laman",
+            "nationality": "Azerbaijani",
+            "date_of_birth": "1996-04-11"
         },
         {
             "id": 112,
             "firstname": "Mohid Ahmed",
             "lastname": "Janjua",
-            "name": "Janjua Mohid Ahmed"
+            "name": "Janjua Mohid Ahmed",
+            "nationality": "Italian",
+            "date_of_birth": "1998-07-27"
         },
         {
             "id": 113,
             "firstname": "Diab",
             "lastname": "Nasser",
-            "name": "Nasser Diab"
+            "name": "Nasser Diab",
+            "nationality": "Pakistani",
+            "date_of_birth": "1997-09-20"
         },
         {
             "id": 114,
             "firstname": "Mara",
             "lastname": "Kravits",
-            "name": "Mara Kravits"
+            "name": "Mara Kravits",
+            "nationality": "Lebanese",
+            "date_of_birth": "1998-01-03"
         },
         {
             "id": 115,
             "firstname": "Karina",
             "lastname": "Creamer",
-            "name": "Karina Creamer"
+            "name": "Karina Creamer",
+            "nationality": "Ukrainian",
+            "date_of_birth": "2000-06-21"
         },
         {
             "id": 116,
             "firstname": "Dulce",
             "lastname": "Telfer",
-            "name": "Dulce Telfer"
+            "name": "Dulce Telfer",
+            "nationality": "French",
+            "date_of_birth": "2000-08-08"
         },
         {
             "id": 117,
             "firstname": "Clo",
             "lastname": "Vanni",
-            "name": "Clo Vanni"
+            "name": "Clo Vanni",
+            "nationality": "American",
+            "date_of_birth": "1996-11-14"
         },
         {
             "id": 118,
             "firstname": "Kellen",
             "lastname": "Angelis",
-            "name": "Kellen Angelis"
+            "name": "Kellen Angelis",
+            "nationality": "American",
+            "date_of_birth": "1999-03-02"
         },
         {
             "id": 119,
             "firstname": "Ardeen",
             "lastname": "Ursulette",
-            "name": "Ardeen Ursulette"
+            "name": "Ardeen Ursulette",
+            "nationality": "American",
+            "date_of_birth": "1997-05-17"
         }
     ],
     "dvds": [
         {
             "barcode": 2001,
             "title": "Avatar",
-            "Director": "James Cameron"
+            "Director": {
+                "name": "James Cameron",
+                "nationality": "Canadian",
+                "date_of_birth": "1954-08-16"
+            }
         },
         {
             "barcode": 2002,
             "title": "I Am Legend",
-            "Director": "Francis Lawrence"
+            "Director": {
+                "name": "Francis Lawrence",
+                "nationality": "Austrian",
+                "date_of_birth": "1971-03-26"
+            }
         },
         {
             "barcode": 2003,
             "title": "300",
-            "Director": "Zack Snyder"
+            "Director": {
+                "name": "Zack Snyder",
+                "nationality": "American",
+                "date_of_birth": "1966-03-01"
+            }
         },
         {
             "barcode": 2004,
             "title": "The Avengers",
-            "Director": "Joss Whedon"
+            "Director": {
+                "name": "Joss Whedon",
+                "nationality": "American",
+                "date_of_birth": "1964-06-23"
+            }
         },
         {
             "barcode": 2005,
             "title": "The Wolf of Wall Street",
-            "Director": "Martin Scorsese"
+            "Director": {
+                "name": "Martin Scorsese",
+                "nationality": "American",
+                "date_of_birth": "1942-11-17"
+            }
         },
         {
             "barcode": 2006,
             "title": "Interstellar",
-            "Director": "Christopher Nolan"
+            "Director": {
+                "name": "Christopher Nolan",
+                "nationality": "British",
+                "date_of_birth": "1970-07-30"
+            }
         },
         {
             "barcode": 2007,
             "title": "Doctor Strange",
-            "Director": "Scott Derrickson"
+            "Director": {
+                "name": "Scott Derrickson",
+                "nationality": "American",
+                "date_of_birth": "1966-07-16"
+            }
         },
         {
             "barcode": 2008,
             "title": "Rogue One: A Star Wars Story",
-            "Director": "Gareth Edwards"
+            "Director": {
+                "name": "Gareth Edwards",
+                "nationality": "British",
+                "date_of_birth": "1975-06-01"
+            }
         },
         {
             "barcode": 2009,
             "title": "Assassin's Creed",
-            "Director": "Justin Kurzel"
+            "Director": {
+                "name": "Justin Kurzel",
+                "nationality": "Australian",
+                "date_of_birth": "1974-08-03"
+            }
         }
     ],
     "books": [
@@ -173,49 +249,81 @@
             "barcode": 2010,
             "isbn": "9781593275846",
             "title": "Eloquent JavaScript, Second Edition",
-            "author": "Marijn Haverbeke"
+            "author": {
+                "name": "Marijn Haverbeke",
+                "nationality": "Dutch",
+                "date_of_birth": "1982-07-14"
+            }
         },
         {
             "barcode": 2011,
             "isbn": "9781449331818",
             "title": "Learning JavaScript Design Patterns",
-            "author": "Addy Osmani"
+            "author": {
+                "name": "Addy Osmani",
+                "nationality": "British",
+                "date_of_birth": "1986-01-12"
+            }
         },
         {
             "barcode": 2012,
             "isbn": "9781449365035",
             "title": "Speaking JavaScript",
-            "author": "Axel Rauschmayer"
+            "author": {
+                "name": "Axel Rauschmayer",
+                "nationality": "German",
+                "date_of_birth": "1961-03-15"
+            }
         },
         {
             "barcode": 2013,
             "isbn": "9781491950296",
             "title": "Programming JavaScript Applications",
-            "author": "Eric Elliott"
+            "author": {
+                "name": "Eric Elliott",
+                "nationality": "American",
+                "date_of_birth": "1978-05-28"
+            }
         },
         {
             "barcode": 2014,
             "isbn": "9781593277574",
             "title": "Understanding ECMAScript 6",
-            "author": "Nicholas C. Zakas"
+            "author": {
+                "name": "Nicholas C. Zakas",
+                "nationality": "American",
+                "date_of_birth": "1984-09-11"
+            }
         },
         {
             "barcode": 2015,
             "isbn": "9781491904244",
             "title": "You Don't Know JS",
-            "author": "Kyle Simpson"
+            "author": {
+                "name": "Kyle Simpson",
+                "nationality": "American",
+                "date_of_birth": "1979-02-23"
+            }
         },
         {
             "barcode": 2016,
             "isbn": "9781449325862",
             "title": "Git Pocket Guide",
-            "author": "Richard E. Silverman"
+            "author": {
+                "name": "Richard E. Silverman",
+                "nationality": "American",
+                "date_of_birth": "1956-10-27"
+            }
         },
         {
             "barcode": 2017,
             "isbn": "9781449337711",
             "title": "Designing Evolvable Web APIs with ASP.NET",
-            "author": "Glenn Block, et al."
+            "author": {
+                "name": "Glenn Block, et al.",
+                "nationality": "American",
+                "date_of_birth": "1980-04-13"
+            }
         }
     ]
 }
