@@ -6,7 +6,7 @@
             "lastname": "Islam",
             "name": "Islam Zill e",
             "nationality": "Pakistani",
-            "date_of_birth": "1997-08-15"
+            "DOB": "1997-08-15"
         },
         {
             "id": 101,
@@ -14,7 +14,7 @@
             "lastname": "Shahbazov",
             "name": " Shahbazov Orkhan",
             "nationality": "Azerbaijani",
-            "date_of_birth": "1998-03-28"
+            "DOB": "1998-03-28"
         },
         {
             "id": 102,
@@ -22,7 +22,7 @@
             "lastname": "Banaouas",
             "name": " Banaouas Mohamed Taha",
             "nationality": "Tunisian",
-            "date_of_birth": "1996-10-07"
+            "DOB": "1996-10-07"
         },
         {
             "id": 103,
@@ -30,7 +30,7 @@
             "lastname": "Azad",
             "name": " Azad Sirin Oglu Hasanli",
             "nationality": "Azerbaijani",
-            "date_of_birth": "2000-02-19"
+            "DOB": "2000-02-19"
         },
         {
             "id": 104,
@@ -38,7 +38,7 @@
             "lastname": "Marden",
             "name": "Alex Marden",
             "nationality": "American",
-            "date_of_birth": "1999-12-30"
+            "DOB": "1999-12-30"
         },
         {
             "id": 105,
@@ -46,7 +46,7 @@
             "lastname": "Biegl",
             "name": "Biegl Dániel Róbert",
             "nationality": "Hungarian",
-            "date_of_birth": "1996-05-04"
+            "DOB": "1996-05-04"
         },
         {
             "id": 106,
@@ -54,7 +54,7 @@
             "lastname": "Marzougui",
             "name": "Marzougui Mehdi",
             "nationality": "Tunisian",
-            "date_of_birth": "1999-06-12"
+            "DOB": "1999-06-12"
         },
         {
             "id": 107,
@@ -62,7 +62,7 @@
             "lastname": "Mahdian",
             "name": "Mahdian Mehrab",
             "nationality": "American",
-            "date_of_birth": "1997-05-17"
+            "DOB": "1997-05-17"
         },
         {
             "id": 108,
@@ -70,7 +70,7 @@
             "lastname": "Merat",
             "name": "Florie Merat",
             "nationality": "Iranian",
-            "date_of_birth": "1997-02-28"
+            "DOB": "1997-02-28"
         },
         {
             "id": 109,
@@ -78,7 +78,7 @@
             "lastname": "Megalla",
             "name": "Megalla Antony Tharwat Fekry",
             "nationality": "French",
-            "date_of_birth": "1998-03-14"
+            "DOB": "1998-03-14"
         },
         {
             "id": 110,
@@ -86,7 +86,7 @@
             "lastname": "Roshandelpour",
             "name": "Roshandelpour Mohammad",
             "nationality": "Iranian",
-            "date_of_birth": "1999-10-16"
+            "DOB": "1999-10-16"
         },
         {
             "id": 111,
@@ -94,7 +94,7 @@
             "lastname": "Suleymanova",
             "name": "Suleymanova Laman",
             "nationality": "Azerbaijani",
-            "date_of_birth": "1996-04-11"
+            "DOB": "1996-04-11"
         },
         {
             "id": 112,
@@ -102,7 +102,7 @@
             "lastname": "Janjua",
             "name": "Janjua Mohid Ahmed",
             "nationality": "Italian",
-            "date_of_birth": "1998-07-27"
+            "DOB": "1998-07-27"
         },
         {
             "id": 113,
@@ -110,7 +110,7 @@
             "lastname": "Nasser",
             "name": "Nasser Diab",
             "nationality": "Pakistani",
-            "date_of_birth": "1997-09-20"
+            "DOB": "1997-09-20"
         },
         {
             "id": 114,
@@ -118,7 +118,7 @@
             "lastname": "Kravits",
             "name": "Mara Kravits",
             "nationality": "Lebanese",
-            "date_of_birth": "1998-01-03"
+            "DOB": "1998-01-03"
         },
         {
             "id": 115,
@@ -126,7 +126,7 @@
             "lastname": "Creamer",
             "name": "Karina Creamer",
             "nationality": "Ukrainian",
-            "date_of_birth": "2000-06-21"
+            "DOB": "2000-06-21"
         },
         {
             "id": 116,
@@ -134,7 +134,7 @@
             "lastname": "Telfer",
             "name": "Dulce Telfer",
             "nationality": "French",
-            "date_of_birth": "2000-08-08"
+            "DOB": "2000-08-08"
         },
         {
             "id": 117,
@@ -142,7 +142,7 @@
             "lastname": "Vanni",
             "name": "Clo Vanni",
             "nationality": "American",
-            "date_of_birth": "1996-11-14"
+            "DOB": "1996-11-14"
         },
         {
             "id": 118,
@@ -150,7 +150,7 @@
             "lastname": "Angelis",
             "name": "Kellen Angelis",
             "nationality": "American",
-            "date_of_birth": "1999-03-02"
+            "DOB": "1999-03-02"
         },
         {
             "id": 119,
@@ -158,17 +158,17 @@
             "lastname": "Ursulette",
             "name": "Ardeen Ursulette",
             "nationality": "American",
-            "date_of_birth": "1997-05-17"
+            "DOB": "1997-05-17"
         }
     ],
-    "dvds": [
+    "DVDs": [
         {
             "barcode": 2001,
             "title": "Avatar",
             "Director": {
                 "name": "James Cameron",
                 "nationality": "Canadian",
-                "date_of_birth": "1954-08-16"
+                "DOB": "1954-08-16"
             }
         },
         {
@@ -177,7 +177,7 @@
             "Director": {
                 "name": "Francis Lawrence",
                 "nationality": "Austrian",
-                "date_of_birth": "1971-03-26"
+                "DOB": "1971-03-26"
             }
         },
         {
@@ -186,7 +186,7 @@
             "Director": {
                 "name": "Zack Snyder",
                 "nationality": "American",
-                "date_of_birth": "1966-03-01"
+                "DOB": "1966-03-01"
             }
         },
         {
@@ -195,7 +195,7 @@
             "Director": {
                 "name": "Joss Whedon",
                 "nationality": "American",
-                "date_of_birth": "1964-06-23"
+                "DOB": "1964-06-23"
             }
         },
         {
@@ -204,7 +204,7 @@
             "Director": {
                 "name": "Martin Scorsese",
                 "nationality": "American",
-                "date_of_birth": "1942-11-17"
+                "DOB": "1942-11-17"
             }
         },
         {
@@ -213,7 +213,7 @@
             "Director": {
                 "name": "Christopher Nolan",
                 "nationality": "British",
-                "date_of_birth": "1970-07-30"
+                "DOB": "1970-07-30"
             }
         },
         {
@@ -222,7 +222,7 @@
             "Director": {
                 "name": "Scott Derrickson",
                 "nationality": "American",
-                "date_of_birth": "1966-07-16"
+                "DOB": "1966-07-16"
             }
         },
         {
@@ -231,7 +231,7 @@
             "Director": {
                 "name": "Gareth Edwards",
                 "nationality": "British",
-                "date_of_birth": "1975-06-01"
+                "DOB": "1975-06-01"
             }
         },
         {
@@ -240,7 +240,7 @@
             "Director": {
                 "name": "Justin Kurzel",
                 "nationality": "Australian",
-                "date_of_birth": "1974-08-03"
+                "DOB": "1974-08-03"
             }
         }
     ],
@@ -252,7 +252,7 @@
             "author": {
                 "name": "Marijn Haverbeke",
                 "nationality": "Dutch",
-                "date_of_birth": "1982-07-14"
+                "DOB": "1982-07-14"
             }
         },
         {
@@ -262,7 +262,7 @@
             "author": {
                 "name": "Addy Osmani",
                 "nationality": "British",
-                "date_of_birth": "1986-01-12"
+                "DOB": "1986-01-12"
             }
         },
         {
@@ -272,7 +272,7 @@
             "author": {
                 "name": "Axel Rauschmayer",
                 "nationality": "German",
-                "date_of_birth": "1961-03-15"
+                "DOB": "1961-03-15"
             }
         },
         {
@@ -282,7 +282,7 @@
             "author": {
                 "name": "Eric Elliott",
                 "nationality": "American",
-                "date_of_birth": "1978-05-28"
+                "DOB": "1978-05-28"
             }
         },
         {
@@ -292,7 +292,7 @@
             "author": {
                 "name": "Nicholas C. Zakas",
                 "nationality": "American",
-                "date_of_birth": "1984-09-11"
+                "DOB": "1984-09-11"
             }
         },
         {
@@ -302,7 +302,7 @@
             "author": {
                 "name": "Kyle Simpson",
                 "nationality": "American",
-                "date_of_birth": "1979-02-23"
+                "DOB": "1979-02-23"
             }
         },
         {
@@ -312,7 +312,7 @@
             "author": {
                 "name": "Richard E. Silverman",
                 "nationality": "American",
-                "date_of_birth": "1956-10-27"
+                "DOB": "1956-10-27"
             }
         },
         {
@@ -322,7 +322,7 @@
             "author": {
                 "name": "Glenn Block, et al.",
                 "nationality": "American",
-                "date_of_birth": "1980-04-13"
+                "DOB": "1980-04-13"
             }
         }
     ]
