@@ -88,7 +88,6 @@ namespace LibraryManager
             LoadMembers(name, id, nationality, DOB);
         }
 
-        //TODO: Load searched members
 
         private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
