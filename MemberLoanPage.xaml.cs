@@ -65,7 +65,6 @@ namespace LibraryManager
             Loan selectedloan = loans[LoansListView.SelectedIndex];
             DisplayLoanBookDialog(selectedloan);
 
-            //TODO: Show Dialog
         }
 
         private async void DisplayLoanBookDialog(Loan loan)
