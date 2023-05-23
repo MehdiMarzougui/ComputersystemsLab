@@ -59,7 +59,6 @@ namespace LibraryManager
             DisplayLoanDVDialog(selectedDVD);
         }
 
-        //TODO: LoanBook
 
         private async void DisplayLoanDVDialog(DVD DVD)
         {
